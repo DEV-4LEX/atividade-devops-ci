@@ -2,7 +2,8 @@
 
 ## 1. Nome do aluno / dupla
 
-Nome completo: IGOR ALEXSANDRO BARBOSA DA COSTA 
+Nome completo: IGOR ALEXSANDRO BARBOSA DA COSTA - 04134673
+               JACKELINE PEREIRA DOMINGUES - 04137210
 
 ## 2. Repositório
 
